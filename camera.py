@@ -7,6 +7,7 @@ import time
 from time import sleep
 from time import  strftime
 
+camera()=PiCamera()
 
 #time variables
 
